@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @felixKessler
-- 🌱 Frontend Web Developer Trainee from Germany
+- 🌱 Frontend Web Developer from Germany
 - 💞️ I’m looking to contribute to open source projects
 - 📫 How to reach me: 
 
